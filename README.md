@@ -1,2 +1,4 @@
-# Šablona pro projekt IEL, verze 2022/01
+# vut-iel-project
+
+Elektronika pro informační technologie - semestrální projekt
 
